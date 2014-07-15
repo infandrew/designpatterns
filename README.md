@@ -1,4 +1,4 @@
-design_patterns
+Design Patterns
 ===============
 
 Design Patterns
